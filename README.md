@@ -1,2 +1,2 @@
 # Genomic-tools-for-Taxonomy
-Repository with pipeline to analyze genomic data for taxonomic research
+Pipelines for the analyses of genomic data for taxonomic research
